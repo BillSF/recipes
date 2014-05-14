@@ -1,6 +1,10 @@
 # Ingredients
-2 eggs (whipped)
+2 eggs
 1/4 C milk
 8 slices of bread
 
-# Steps
+# Step
+* Beat eggs
+* Add milk and mix
+* Dip bread in mixture
+* Cook
